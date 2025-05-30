@@ -7,28 +7,28 @@ education:
     year: 2025
   - course: Master in Political Science
     institution: University of São Paulo
-    year: 2009
+    year: 2019
   - course: BSc in International Relations
     institution: University of São Paulo
-    year: 2008
+    year: 2016
 email: ""
 highlight_name: true
 
 interests: []
-# - Brazilian Foreign Policy
-# - Foreign Policy Analysis
-# - Climate Policy
-# - Global Environmental Governance
-# - Computational Social Science
-# - Natural Language Processing
-# - Mixed Methods Research
+- Brazilian Foreign Policy
+- Foreign Policy Analysis
+- Climate Policy
+- Global Environmental Governance
+- Computational Social Science
+- Natural Language Processing
+- Mixed Methods Research
 
-
+role: Post-Doctoral Researcher
 
 organizations:
 - name: CEBRAP - Brazilian Center for Analysis and Planning
-url: https://cebrap.org.br/home-en/
-role: Post-Doctoral Researcher
+  url: http://cebrap.org.br/home-en/
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,13 +37,13 @@ social:
     header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=OftTw70AAAAJ&hl
+  link: http://scholar.google.com/citations?user=OftTw70AAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/mmaitino
+  link: http://github.com/mmaitino
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/martin-maitino-982602b5/
+  link: http://www.linkedin.com/in/martin-maitino-982602b5/
 
 superuser: true
 title: Martin Maitino
