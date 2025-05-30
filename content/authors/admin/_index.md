@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: PhD in Political Science (University of São Paulo) and post-doctoral researcher at CEBRAP.
 education:
   courses:
   - course: PhD in Political Science
@@ -27,7 +26,8 @@ interests: []
 
 
 organizations:
-- name: [CEBRAP - Brazilian Center for Analysis and Planning](https://cebrap.org.br/home-en/)
+- name: CEBRAP - Brazilian Center for Analysis and Planning
+url: https://cebrap.org.br/home-en/
 role: Post-Doctoral Researcher
 social:
 - icon: envelope
@@ -45,11 +45,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/martin-maitino-982602b5/
 
-
 superuser: true
 title: Martin Maitino
 ---
 
-PhD in Political Science from University of São Paulo, Brazil (2025). Post-doctoral researcher at the Brazilian Center for Analysis and Planning (CEBRAP), investigating how domestic institutions and policy networks affect the climate implementation gap. Researcher at the University of São Paulo's Center for the Study of International Negotiations (CAENI-USP), co-chairing the Text-as-Data research group. Visiting researcher at the University of Birmingham (2023). 
+PhD in Political Science from University of São Paulo, Brazil (2025). 
+Post-doctoral researcher at the Brazilian Center for Analysis and Planning (CEBRAP), investigating how domestic institutions and policy networks affect the climate implementation gap. Researcher at the University of São Paulo's Center for the Study of International Negotiations (CAENI-USP), co-chairing the Text-as-Data research group. Visiting researcher at the University of Birmingham (2023). 
 
 You can find my research CV {{< staticref "http://lattes.cnpq.br/7694308318374595" "newtab" >}}here {{< /staticref >}}.
