@@ -12,9 +12,10 @@ education:
     institution: University of São Paulo
     year: 2016
 email: ""
+
 highlight_name: true
 
-interests: []
+interests:
 - Brazilian Foreign Policy
 - Foreign Policy Analysis
 - Climate Policy
@@ -28,13 +29,15 @@ role: Post-Doctoral Researcher
 organizations:
 - name: CEBRAP - Brazilian Center for Analysis and Planning
   url: http://cebrap.org.br/home-en/
-
+  
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:martin.maitino@usp.br
+  
 - display:
     header: true
+  
 - icon: graduation-cap
   icon_pack: fas
   link: http://scholar.google.com/citations?user=OftTw70AAAAJ&hl
