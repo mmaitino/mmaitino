@@ -52,7 +52,6 @@ superuser: true
 title: Martin Maitino
 ---
 
-PhD in Political Science from University of São Paulo, Brazil (2025). 
-Post-doctoral researcher at the Brazilian Center for Analysis and Planning (CEBRAP), investigating how domestic institutions and policy networks affect the climate implementation gap. Researcher at the University of São Paulo's Center for the Study of International Negotiations (CAENI-USP), co-chairing the Text-as-Data research group. Visiting researcher at the University of Birmingham (2023). 
+Post-doctoral researcher at the Brazilian Center for Analysis and Planning (CEBRAP), investigating how domestic institutions and policy networks affect the climate implementation gap. Researcher at the University of São Paulo's Center for the Study of International Negotiations (CAENI-USP), co-chairing the Text-as-Data research group. PhD in Political Science from the University of São Paulo, Brazil (2025). Visiting researcher at the University of Birmingham (2023). 
 
 You can find my research CV {{< staticref "http://lattes.cnpq.br/7694308318374595" "newtab" >}}here {{< /staticref >}}.
