@@ -1,5 +1,5 @@
 ---
-title: Ontological Security and Climate Policy in Jair Bolsonaro’s Brazil: Understanding the Emotional Underpinnings of Environmental Destruction
+title: 'Ontological Security and Climate Policy in Jair Bolsonaro’s Brazil: Understanding the Emotional Underpinnings of Environmental Destruction'
 
 authors:
 - admin

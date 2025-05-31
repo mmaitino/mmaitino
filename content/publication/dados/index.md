@@ -1,5 +1,5 @@
 ---
-title: Issue Area and Pluralization In Brazilian Foreign Policy: an Exploratory Study of Decision-Making Processes in the Fernando Henrique Cardoso Government
+title: 'Issue Area and Pluralization In Brazilian Foreign Policy: an Exploratory Study of Decision-Making Processes in the Fernando Henrique Cardoso Government'
 
 authors:
 - admin

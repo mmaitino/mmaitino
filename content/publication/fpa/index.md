@@ -1,5 +1,5 @@
 ---
-title: Socializing Brazil into Regional Leadership: The 2006 Bolivian Gas Crisis and the Role of Small Powers in Promoting Master Roles Transitions
+title: 'Socializing Brazil into Regional Leadership: The 2006 Bolivian Gas Crisis and the Role of Small Powers in Promoting Master Roles Transitions'
 
 authors:
 - Feliciano Guimarães

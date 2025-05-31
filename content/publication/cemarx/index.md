@@ -1,5 +1,5 @@
 ---
-title: Populismo e bolsonarismo
+title: 'Populismo e bolsonarismo'
 
 authors:
 - admin

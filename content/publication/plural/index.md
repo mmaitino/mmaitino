@@ -1,5 +1,5 @@
 ---
-title: “Direita, sem vergonha”: conformações no campo da direita no Brasil a partir do discurso de Jair Bolsonaro
+title: '“Direita, sem vergonha”: conformações no campo da direita no Brasil a partir do discurso de Jair Bolsonaro'
 
 authors:
 - admin
