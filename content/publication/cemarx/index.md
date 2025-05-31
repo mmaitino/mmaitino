@@ -55,10 +55,7 @@ tags:
 - Radical right
 
 
----
-# Texto a aparecer na página própria
-
-
+# Depois do ---, incluir texto para aparecer na página própria. Abaixo, exemplo do tema
 #{{% callout note %}}
 #Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 #{{% /callout %}}
@@ -68,3 +65,4 @@ tags:
 #{{% /callout %}}
 
 #Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+---

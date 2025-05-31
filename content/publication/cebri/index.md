@@ -27,7 +27,7 @@ url_pdf: "https://cebri-revista.emnuvens.com.br/revista/article/view/89"
 #url_video: ""
 
 # Summary = resumo do abstract (opcional)
-abstract:
+abstract: The article analyzes three projects related to the Ministry of Foreign Affairs (MRE) organization and its policy throughout the Bolsonaro government: reforms proposed during Ernesto Araújo's tenure, the articulation of former ministers for the “reconstruction of Brazilian foreign policy,” and the program for a post-Bolsonaro foreign policy proposed by MRE officials. Analysis of speeches and documents reveal how, despite democratizing traits, the proposals privilege diplomats as the “natural formulators” of foreign policy.
 summary: 
 
 
@@ -41,8 +41,8 @@ summary:
 featured: false
 
 # Imagem na página própria - To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+image:
+  caption: 'Source: tweet by former foreign minister Ernesto Araújo'
 #  focal_point: ""
 #  preview_only: false
 
@@ -56,10 +56,7 @@ tags:
 - Brazilian Foreign Policy
 
 
----
-# Texto a aparecer na página própria
-
-
+# Depois do ---, incluir texto para aparecer na página própria. Abaixo, exemplo do tema
 #{{% callout note %}}
 #Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 #{{% /callout %}}
@@ -69,3 +66,5 @@ tags:
 #{{% /callout %}}
 
 #Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+---
+
