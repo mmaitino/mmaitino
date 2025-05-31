@@ -27,7 +27,7 @@ url_pdf: "https://cebri-revista.emnuvens.com.br/revista/article/view/89"
 #url_video: ""
 
 # Summary = resumo do abstract (opcional)
-abstract: The article analyzes three projects related to the Ministry of Foreign Affairs (MRE) organization and its policy throughout the Bolsonaro government: reforms proposed during Ernesto Araújo's tenure, the articulation of former ministers for the “reconstruction of Brazilian foreign policy,” and the program for a post-Bolsonaro foreign policy proposed by MRE officials. Analysis of speeches and documents reveal how, despite democratizing traits, the proposals privilege diplomats as the “natural formulators” of foreign policy.
+abstract: 'The article analyzes three projects related to the Ministry of Foreign Affairs (MRE) organization and its policy throughout the Bolsonaro government: reforms proposed during Ernesto Araújo's tenure, the articulation of former ministers for the “reconstruction of Brazilian foreign policy,” and the program for a post-Bolsonaro foreign policy proposed by MRE officials. Analysis of speeches and documents reveal how, despite democratizing traits, the proposals privilege diplomats as the “natural formulators” of foreign policy.'
 summary: 
 
 
