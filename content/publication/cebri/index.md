@@ -1,15 +1,15 @@
 ---
-title: Ontological Security and Climate Policy in Jair Bolsonaro’s Brazil: Understanding the Emotional Underpinnings of Environmental Destruction
+title: "A tradição de se renovar: propostas de reforma do Itamaraty sob Bolsonaro"
 
 authors:
 - admin
-- Marco Vieira
+- Kaiutan Venerando
 
-publication: '*Global Studies Quarterly*'
+publication: '*CEBRI-Revista: Brazilian Journal of International Affairs*'
 publication_short: ""
 
-date: "2024-01-01T00:00:00Z"
-doi: "10.1093/isagsq/ksae079"
+date: "2023-03-29T00:00:00Z"
+doi: ""
 
 publication_types: ["2"]
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publication_types: ["2"]
 # 7 = Thesis; 8 = Patent
 
 # Links para a publicação
-url_pdf: "http://academic.oup.com/isagsq/article-pdf/doi/10.1093/isagsq/ksae079/60429108/ksae079.pdf"
+url_pdf: "https://cebri-revista.emnuvens.com.br/revista/article/view/89"
 #url_code: ""
 #url_dataset: ""
 #url_poster: ""

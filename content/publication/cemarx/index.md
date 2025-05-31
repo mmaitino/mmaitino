@@ -1,15 +1,14 @@
 ---
-title: Ontological Security and Climate Policy in Jair Bolsonaro’s Brazil: Understanding the Emotional Underpinnings of Environmental Destruction
+title: Populismo e bolsonarismo
 
 authors:
 - admin
-- Marco Vieira
 
-publication: '*Global Studies Quarterly*'
+publication: '*Cadernos CEMARX*'
 publication_short: ""
 
-date: "2024-01-01T00:00:00Z"
-doi: "10.1093/isagsq/ksae079"
+date: "2020-01-01T00:00:00Z"
+doi: ""
 
 publication_types: ["2"]
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +16,7 @@ publication_types: ["2"]
 # 7 = Thesis; 8 = Patent
 
 # Links para a publicação
-url_pdf: "http://academic.oup.com/isagsq/article-pdf/doi/10.1093/isagsq/ksae079/60429108/ksae079.pdf"
+url_pdf: "https://econtents.bc.unicamp.br/inpec/index.php/cemarx/article/view/13167"
 #url_code: ""
 #url_dataset: ""
 #url_poster: ""
@@ -27,7 +26,7 @@ url_pdf: "http://academic.oup.com/isagsq/article-pdf/doi/10.1093/isagsq/ksae079/
 #url_video: ""
 
 # Summary = resumo do abstract (opcional)
-abstract:
+abstract: 'Como entender o bolsonarismo? Trata-se de uma nova direita ou apenas uma nova face do conservadorismo tradicional? As explicações sobre a ascensão da direita radical no mundo bastam para compreendê-lo? O artigo procura analisar a construção ideológica do movimento que levou Jair Bolsonaro à presidência. Partindo das considerações de Ernesto Laclau sobre o populismo das classes dominantes, observa-se a composição do bolsonarismo e aquilo que o mantém unido. Identifica-se, na leitura da política como um embate moral e, mais especificamente, na figura do "cidadão de bem", a chave de articulação do populismo bolsonarista. Ao propor uma luta dos cidadãos de bem contra "tudo isso que está aí", Bolsonaro mobiliza símbolos populares contra o Estado ao mesmo tempo que oculta o aspecto regressivo de suas políticas de distribuição e reconhecimento.'
 summary: 
 
 
@@ -53,7 +52,7 @@ publishDate: "2017-01-01T00:00:00Z"
 projects: []
 
 tags:
-- Brazilian Foreign Policy
+- Radical right
 
 
 ---
