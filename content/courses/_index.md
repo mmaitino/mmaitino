@@ -7,4 +7,4 @@ type: page
 view: 2
 ---
 
-I teach the following courses:
+Here you can find some of the courses I have offered in the past:
